@@ -1,4 +1,4 @@
-site,label_site,wildtype,mutation,condition,protein_chain,protein_site,mut_score
+site,site_label,wildtype,mutation,condition,protein_chain,protein_site,mut_score
 1,A167,A,E,minustet,A,167,-1.423442879
 1,A167,A,V,minustet,A,167,0.158519662
 1,A167,A,T,minustet,A,167,0.270862421
